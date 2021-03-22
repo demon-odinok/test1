@@ -5,5 +5,5 @@ socat -d -d -d -v pty,echo=0,link=/dev/ttyUSB2 tcp:192.168.99.7:4040,keepalive,k
 sleep 0.2
 done
 
-
+### чтение от микрота
 
